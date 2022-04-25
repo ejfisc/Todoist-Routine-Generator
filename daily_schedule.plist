@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>daily.schedule</string> 
+    <key>RunAtLoad</key>
+    <true/>
+    <key>ProgramArguments</key>
+    <array>
+        <string>/usr/local/bin/python3.10</string> #python installation path
+        <string>/Users/ethanfischer/Documents/Todoist-Routine-Generator/routine.py<string> #your py file path
+    </array>
+    <key>StartInterval</key>
+    <dict>
+         <integer>30<integer>
+    </dict>
+</dict>
+</plist>
