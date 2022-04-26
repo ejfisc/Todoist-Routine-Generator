@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
     <key>Label</key>
-    <string>daily.schedule</string> 
+    <string>daily.routine</string> 
     <key>RunAtLoad</key>
     <true/>
     <key>ProgramArguments</key>
